@@ -1,0 +1,18 @@
+Accueil : 
+ - Lister toutes les catégories avec nom et description ainsi qu'un lien vers la page catégorie.
+ - Lien en bas de page vers une page pour ajouter une catégorie.
+
+Page catégorie : 
+ - Lister tous les produits dans la catégorie (nom, description courte, prix) avec un lien vers la page de détail du produit.
+ - Ajouter un lien vers la page de modification de catégorie.
+ - Ajouter un lien vers la page d'ajout produit.
+ 
+Page produit :
+ - Afficher toutes les informations du produit.
+ - Ajouter un lien vers une page de modification du produit.
+
+ 
+Pensez à l'ergonomie (fil d'Ariane?).
+Aucune modification de la base de données.
+Les projets seront testés sur serveur Linux et PHP 7.
+
